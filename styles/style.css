@@ -1,3 +1,7 @@
 body {
     background: #eee;
 }
+
+p {
+    font-size: 2em;
+}
